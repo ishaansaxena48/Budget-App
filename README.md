@@ -4,17 +4,6 @@ A simple and intuitive web-based budget application to help you track your incom
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Features
 - **Track Income**: Easily add and manage your earnings.
 - **Track Expenses**: Record your expenditures to monitor your spending.
